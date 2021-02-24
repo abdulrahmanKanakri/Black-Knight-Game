@@ -1,0 +1,266 @@
+{
+  "cells": [
+    {
+      "type": "EMPTY",
+      "coordinate": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "type": "EMPTY",
+      "coordinate": {
+        "x": 2,
+        "y": 1
+      }
+    },
+    {
+      "type": "EMPTY",
+      "coordinate": {
+        "x": 3,
+        "y": 1
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 4,
+        "y": 1
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 5,
+        "y": 1
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 6,
+        "y": 1
+      }
+    },
+    {
+      "type": "EMPTY",
+      "coordinate": {
+        "x": 1,
+        "y": 2
+      }
+    },
+    {
+      "type": "EMPTY",
+      "coordinate": {
+        "x": 2,
+        "y": 2
+      }
+    },
+    {
+      "type": "EMPTY",
+      "coordinate": {
+        "x": 3,
+        "y": 2
+      }
+    },
+    {
+      "type": "EXIT_HOLE",
+      "coordinate": {
+        "x": 4,
+        "y": 2
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 5,
+        "y": 2
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 6,
+        "y": 2
+      }
+    },
+    {
+      "type": "EMPTY",
+      "coordinate": {
+        "x": 1,
+        "y": 3
+      }
+    },
+    {
+      "type": "EMPTY",
+      "coordinate": {
+        "x": 2,
+        "y": 3
+      }
+    },
+    {
+      "type": "EMPTY",
+      "coordinate": {
+        "x": 3,
+        "y": 3
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 4,
+        "y": 3
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 5,
+        "y": 3
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 6,
+        "y": 3
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 1,
+        "y": 4
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 2,
+        "y": 4
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 3,
+        "y": 4
+      }
+    },
+    {
+      "type": "EMPTY",
+      "coordinate": {
+        "x": 4,
+        "y": 4
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 5,
+        "y": 4
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 6,
+        "y": 4
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 1,
+        "y": 5
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 2,
+        "y": 5
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 3,
+        "y": 5
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 4,
+        "y": 5
+      }
+    },
+    {
+      "type": "EMPTY",
+      "coordinate": {
+        "x": 5,
+        "y": 5
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 6,
+        "y": 5
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 1,
+        "y": 6
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 2,
+        "y": 6
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 3,
+        "y": 6
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 4,
+        "y": 6
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 5,
+        "y": 6
+      }
+    },
+    {
+      "type": "TILE",
+      "coordinate": {
+        "x": 6,
+        "y": 6
+      }
+    }
+  ],
+  "horseCoordinate": {
+    "x": 1,
+    "y": 5
+  },
+  "exitHoleCoordinate": {
+    "x": 4,
+    "y": 2
+  },
+  "n": 6,
+  "m": 6
+}
